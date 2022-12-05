@@ -1,0 +1,8 @@
+numpy
+tensorflow
+ordered-set
+torch
+torch-scatter
+torch-sparse
+torch-cluster
+torch-geometric
